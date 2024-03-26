@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajsamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="virajsamarasinghe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virajsamarasinghe" alt="virajsamarasinghe" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/champike3" target="blank"><img src="https://img.shields.io/twitter/follow/champike3?logo=twitter&style=for-the-badge" alt="champike3" /></a> </p>
 
