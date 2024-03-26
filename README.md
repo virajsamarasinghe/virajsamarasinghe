@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Viraj Samarasinghe</h1>
 <h3 align="center">Mastering the Art of Crafting End-to-End Solutions</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" align="right" width="400">
 
 
 
