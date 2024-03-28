@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/champike3" target="blank"><img src="https://img.shields.io/twitter/follow/champike3?logo=twitter&style=for-the-badge" alt="champike3" /></a> </p>
 
-- 🔭 I’m currently working on **MEAR Project**
+- 🔭 I’m currently working on **MERN Project**
 
 - 🌱 I’m currently learning **React Native**
 
@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Blockchain Development**
 
-- 💬 Ask me about **Flutter & MEAR**
+- 💬 Ask me about **Flutter & MERN**
 
 - 📫 How to reach me **vchampike@gmail.com**
 
