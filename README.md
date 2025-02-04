@@ -1,9 +1,7 @@
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
 
 <h1 align="center">Hi 👋, I'm Viraj Samarasinghe</h1>
 <h3 align="center">Java Developer | Spring Boot | Microservices | Security</h3>
-
-<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" align="right" width="400">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=virajsamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="virajsamarasinghe" />
