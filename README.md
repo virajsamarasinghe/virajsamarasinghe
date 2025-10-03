@@ -1,87 +1,312 @@
 
 
-<h1 align="center">Hi 👋, I'm Viraj Samarasinghe</h1>
-<h3 align="center">Java Developer | Spring Boot | Microservices | Security</h3>
+<div align="center">
+  - 🧠 **AI Engineer** specializing in **Agentic Systems** and **Retrieval-Augmented Generation (RAG)**
+- 🤖 Currently building **Multi-Agent Systems**, **AI Agent Orchestration**, and **autonomous AI workflows**
+- 🔬 Exploring **agent-to-agent communication**, **advanced RAG architectures**, and **multi-modal agentic AI**
+- 🚀 Passionate about **Agent Automation**, **MLOps**, **AI ethics**, and **responsible AI development**
+- 🌱 Currently mastering **AutoGen**, **CrewAI**, **LangGraph**, **multi-agent frameworks**, and **distributed AI systems**
+- 👯 Looking to collaborate on **agentic AI projects**, **agent automation**, and **cutting-edge multi-agent research**
+- 💡 Ask me about **agentic systems**, **agent orchestration**, **RAG systems**, **LLMs**, and **AI automation**
+- 📫 Reach me at **vchampike@gmail.com**
+- ⚡ Fun fact: **I believe autonomous agents will revolutionize how we interact with AI! 🤖✨**"https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=H### 🤖 **Multi-Agent Automation System**
+> Autonomous agent orchestration platform for complex workflow automation and decision-making
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=virajsamarasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="virajsamarasinghe" />
-</p>
+[![Agent System](https://img.shields.io/badge/🤖_Agent_System-Live_Demo-success?style=for-the-badge)](https://github.com/virajsamarasinghe/RAG-Retrieval-Augmented-Generation-)
+[![Tech Stack](https://img.shields.io/badge/Tech-AutoGen_|_CrewAI_|_LangGraph_|_OpenAI-red?style=for-the-badge)](#)
 
-<p align="left"> 
-  <a href="https://twitter.com/champike3" target="blank">
-    <img src="https://img.shields.io/twitter/follow/champike3?logo=twitter&style=for-the-badge" alt="champike3" />
-  </a> 
-</p>
+### 🔍 **RAG-Powered Document Intelligence System**
+> Advanced retrieval-augmented generation system for intelligent document processing and Q&A
+
+[![RAG System](https://img.shields.io/badge/🔍_RAG_System-Live_Demo-success?style=for-the-badge)](https://github.com/virajsamarasinghe/RAG-Retrieval-Augmented-Generation-)
+[![Tech Stack](https://img.shields.io/badge/Tech-Python_|_LangChain_|_Pinecone_|_OpenAI-blue?style=for-the-badge)](#)
+
+### 🌐 **Agentic AI Network**
+> Distributed multi-agent system with specialized AI agents for collaborative problem-solving
+
+[![Agentic Network](https://img.shields.io/badge/🌐_Agentic_Network-Coming_Soon-orange?style=for-the-badge)](#)
+[![Tech Stack](https://img.shields.io/badge/Tech-MetaGPT_|_AgentVerse_|_FastAPI_|_Redis-purple?style=for-the-badge)](#)%8B%2C+I'm+Viraj+Samarasinghe;AI+Engineer+%7C+Machine+Learning+Specialist;RAG+Systems+%7C+Agentic+AI+%7C+LLMs;Agent+Automation+%7C+Multi-Agent+Systems" alt="Typing SVG" />
+</div>
+
+<h3 align="center">🤖 AI Engineer | Agentic Systems | RAG | Multi-Agent Automation | LLMs 🧠</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=virajsamarasinghe&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="virajsamarasinghe" />
+  <img src="https://img.shields.io/github/followers/virajsamarasinghe?logo=github&style=for-the-badge&color=blue&labelColor=black" alt="followers" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/virajsamarasinghe/virajsamarasinghe/blob/main/assets/ai-banner.gif" width="800" alt="AI Engineering Banner"/>
+</div>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Spring Boot Microservices Project**
-- 🌱 I’m currently learning **Spring Security, OAuth2 & JWT Authentication**
-- 👯 I’m looking to collaborate on **Spring Cloud & Kubernetes Projects**
-- 🤝 I’m looking for help with **Event-Driven Microservices & Kafka**
-- 💬 Ask me about **Spring Boot, Java Backend, and API Security**
-- 📫 How to reach me **vchampike@gmail.com**
-- ⚡ Fun fact: **I love optimizing APIs for speed! 🚀**
+
+<img align="right" alt="AI Engineering" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🧠 **AI Engineer** specializing in **Retrieval-Augmented Generation (RAG)** systems
+- 🤖 Currently building **Large Language Model applications** and **intelligent document processing** systems
+- � Exploring **advanced RAG architectures**, **vector databases**, and **multi-modal AI**
+- 🚀 Passionate about **MLOps**, **AI ethics**, and **responsible AI development**
+- 🌱 Currently mastering **LangChain**, **Transformer architectures**, and **distributed AI systems**
+- 👯 Looking to collaborate on **open-source AI projects** and **cutting-edge research**
+- � Ask me about **RAG systems**, **LLMs**, **vector embeddings**, and **AI model optimization**
+- 📫 Reach me at **vchampike@gmail.com**
+- ⚡ Fun fact: **I believe AI will augment human creativity, not replace it! 🎨🤖**
 
 ---
 
-## 📌 Connect with me:
-<p align="left">
-<a href="https://dev.to/@virajsamarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@virajsamarasinghe" height="30" width="40" /></a>
-<a href="https://twitter.com/champike3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="champike3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/viraj-samarasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viraj-samarasinghe" height="30" width="40" /></a>
-<a href="https://fb.com/champikev123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="champikev123" height="30" width="40" /></a>
-<a href="https://instagram.com/virajsamarasighe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="virajsamarasighe" height="30" width="40" /></a>
-</p>
+## 🌐 Connect with me:
+
+<div align="center">
+  <a href="https://linkedin.com/in/viraj-samarasinghe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/champike3" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://dev.to/@virajsamarasinghe" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://medium.com/@virajsamarasinghe" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://kaggle.com/virajsamarasinghe" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:vchampike@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 ---
 
-## 🛠️ Languages and Tools:
-### **Backend:**
-<p align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+## 🧠 AI & Machine Learning Stack:
+
+<div align="center">
+
+### **🤖 Agentic AI & Multi-Agent Frameworks**
+<p align="center">
+  <a href="https://microsoft.github.io/autogen/" target="_blank">
+    <img src="https://img.shields.io/badge/🔄_AutoGen-0078D4?style=for-the-badge" alt="AutoGen"/>
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-boot" width="40" height="40"/>
+  <a href="https://www.crewai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🚢_CrewAI-FF6B35?style=for-the-badge" alt="CrewAI"/>
   </a>
-  <a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-security" width="40" height="40"/>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+    <img src="https://img.shields.io/badge/🕸️_LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph"/>
   </a>
-  <a href="https://spring.io/projects/spring-cloud" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring-cloud" width="40" height="40"/>
+  <a href="https://github.com/SWE-agent/SWE-agent" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_SWE_Agent-8A2BE2?style=for-the-badge" alt="SWE-Agent"/>
+  </a>
+  <a href="https://github.com/geekan/MetaGPT" target="_blank">
+    <img src="https://img.shields.io/badge/🎭_MetaGPT-FF4B4B?style=for-the-badge" alt="MetaGPT"/>
+  </a>
+  <a href="https://github.com/OpenBMB/AgentVerse" target="_blank">
+    <img src="https://img.shields.io/badge/🌌_AgentVerse-00D4AA?style=for-the-badge" alt="AgentVerse"/>
   </a>
 </p>
 
-### **Database & Messaging:**
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+### **🧠 AI/ML Frameworks & Libraries**
+<p align="center">
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge" alt="Hugging Face"/>
+  </a>
+  <a href="https://python.langchain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   </a>
 </p>
 
-### **DevOps & Cloud:**
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+### **🗄️ Vector Databases & RAG Tech**
+<p align="center">
+  <a href="https://www.pinecone.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌲_Pinecone-0080FF?style=for-the-badge" alt="Pinecone"/>
   </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <a href="https://weaviate.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Weaviate-FF6B6B?style=for-the-badge" alt="Weaviate"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+  <a href="https://www.trychroma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/ChromaDB-4A90E2?style=for-the-badge" alt="ChromaDB"/>
+  </a>
+  <a href="https://qdrant.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Qdrant-FF4081?style=for-the-badge" alt="Qdrant"/>
+  </a>
+  <a href="https://faiss.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/FAISS-4267B2?style=for-the-badge" alt="FAISS"/>
   </a>
 </p>
+
+### **☁️ LLM APIs & Cloud AI**
+<p align="center">
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  </a>
+  <a href="https://www.anthropic.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge" alt="Anthropic"/>
+  </a>
+  <a href="https://cohere.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Cohere-39457E?style=for-the-badge" alt="Cohere"/>
+  </a>
+  <a href="https://aws.amazon.com/bedrock/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Bedrock"/>
+  </a>
+  <a href="https://cloud.google.com/vertex-ai" target="_blank">
+    <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"/>
+  </a>
+</p>
+
+### **💻 Programming & Development**
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </a>
+  <a href="https://gradio.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Gradio-FFA500?style=for-the-badge" alt="Gradio"/>
+  </a>
+</p>
+
+### **🛠️ MLOps & Infrastructure**
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  </a>
+  <a href="https://mlflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  </a>
+  <a href="https://wandb.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white" alt="W&B"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virajsamarasinghe&show_icons=true&locale=en&layout=compact" alt="virajsamarasinghe" /></p>
+## 🎯 Featured AI Projects
+
+<div align="center">
+
+### � **RAG-Powered Document Intelligence System**
+> Advanced retrieval-augmented generation system for intelligent document processing and Q&A
+
+[![RAG System](https://img.shields.io/badge/🔍_RAG_System-Live_Demo-success?style=for-the-badge)](https://github.com/virajsamarasinghe/RAG-Retrieval-Augmented-Generation-)
+[![Tech Stack](https://img.shields.io/badge/Tech-Python_|_LangChain_|_Pinecone_|_OpenAI-blue?style=for-the-badge)](#)
+
+### 🤖 **Multi-Modal AI Assistant**
+> Intelligent assistant leveraging vision and language models for comprehensive AI interactions
+
+[![AI Assistant](https://img.shields.io/badge/🤖_AI_Assistant-Coming_Soon-orange?style=for-the-badge)](#)
+[![Tech Stack](https://img.shields.io/badge/Tech-GPT4V_|_CLIP_|_Whisper_|_FastAPI-purple?style=for-the-badge)](#)
+
+### 📊 **MLOps Pipeline for LLM Fine-tuning**
+> End-to-end MLOps pipeline for fine-tuning and deploying large language models
+
+[![MLOps](https://img.shields.io/badge/⚙️_MLOps_Pipeline-In_Progress-yellow?style=for-the-badge)](#)
+[![Tech Stack](https://img.shields.io/badge/Tech-Docker_|_K8s_|_MLflow_|_HuggingFace-green?style=for-the-badge)](#)
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=virajsamarasinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A9A9A9" alt="GitHub Stats"/>
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=virajsamarasinghe&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak"/>
+  
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajsamarasinghe&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A9A9A9&layout=compact&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=virajsamarasinghe&theme=tokyo-night&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![Google Cloud AI](https://img.shields.io/badge/Google_Cloud-AI_ML_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
+[![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Specialization-00D4AA?style=for-the-badge)](#)
+[![Coursera ML](https://img.shields.io/badge/Coursera-Machine_Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](#)
+
+</div>
+
+---
+
+## 📝 Latest AI Research & Articles
+
+<div align="center">
+
+<!-- BLOG-POST-LIST:START -->
+- 🤖 [Mastering Multi-Agent Systems: From Theory to Production](https://dev.to/virajsamarasinghe/multi-agent-systems-guide)
+- � [Agent Orchestration Patterns: Building Scalable AI Workflows](https://medium.com/@virajsamarasinghe/agent-orchestration-patterns)
+- 🔥 [Building Production-Ready RAG Systems: A Complete Guide](https://dev.to/virajsamarasinghe/rag-systems-guide)
+- 🚀 [Agentic AI: The Future of Autonomous Decision-Making](https://medium.com/@virajsamarasinghe/agentic-ai-future)
+- 🧠 [Fine-tuning LLMs for Agent-Based Applications](https://dev.to/virajsamarasinghe/llm-finetuning-agents)
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+---
+
+## 💡 AI Innovation Mindset
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20of%20AI%20lies%20in%20autonomous%20agents%20that%20can%20collaborate,%20reason,%20and%20adapt%20-%20creating%20intelligent%20systems%20that%20amplify%20human%20potential.&author=Viraj%20Samarasinghe" alt="Agentic AI Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>💻 "Code with Purpose, Innovate with AI" 🤖</h3>
+  <p>⭐ Star my repositories if you find them useful! ⭐</p>
+  
+  [![Sponsor](https://img.shields.io/badge/💖_Sponsor-GitHub_Sponsors-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/virajsamarasinghe)
+  [![Coffee](https://img.shields.io/badge/☕_Buy_me_a_coffee-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/virajsamarasinghe)
+  
+</div>
 
