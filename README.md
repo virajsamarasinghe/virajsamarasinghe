@@ -1,34 +1,9 @@
 
-
 <div align="center">
-  - 🧠 **AI Engineer** specializing in **Agentic Systems** and **Retrieval-Augmented Generation (RAG)**
-- 🤖 Currently building **Multi-Agent Systems**, **AI Agent Orchestration**, and **autonomous AI workflows**
-- 🔬 Exploring **agent-to-agent communication**, **advanced RAG architectures**, and **multi-modal agentic AI**
-- 🚀 Passionate about **Agent Automation**, **MLOps**, **AI ethics**, and **responsible AI development**
-- 🌱 Currently mastering **AutoGen**, **CrewAI**, **LangGraph**, **multi-agent frameworks**, and **distributed AI systems**
-- 👯 Looking to collaborate on **agentic AI projects**, **agent automation**, and **cutting-edge multi-agent research**
-- 💡 Ask me about **agentic systems**, **agent orchestration**, **RAG systems**, **LLMs**, and **AI automation**
-- 📫 Reach me at **vchampike@gmail.com**
-- ⚡ Fun fact: **I believe autonomous agents will revolutionize how we interact with AI! 🤖✨**"https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=H### 🤖 **Multi-Agent Automation System**
-> Autonomous agent orchestration platform for complex workflow automation and decision-making
-
-[![Agent System](https://img.shields.io/badge/🤖_Agent_System-Live_Demo-success?style=for-the-badge)](https://github.com/virajsamarasinghe/RAG-Retrieval-Augmented-Generation-)
-[![Tech Stack](https://img.shields.io/badge/Tech-AutoGen_|_CrewAI_|_LangGraph_|_OpenAI-red?style=for-the-badge)](#)
-
-### 🔍 **RAG-Powered Document Intelligence System**
-> Advanced retrieval-augmented generation system for intelligent document processing and Q&A
-
-[![RAG System](https://img.shields.io/badge/🔍_RAG_System-Live_Demo-success?style=for-the-badge)](https://github.com/virajsamarasinghe/RAG-Retrieval-Augmented-Generation-)
-[![Tech Stack](https://img.shields.io/badge/Tech-Python_|_LangChain_|_Pinecone_|_OpenAI-blue?style=for-the-badge)](#)
-
-### 🌐 **Agentic AI Network**
-> Distributed multi-agent system with specialized AI agents for collaborative problem-solving
-
-[![Agentic Network](https://img.shields.io/badge/🌐_Agentic_Network-Coming_Soon-orange?style=for-the-badge)](#)
-[![Tech Stack](https://img.shields.io/badge/Tech-MetaGPT_|_AgentVerse_|_FastAPI_|_Redis-purple?style=for-the-badge)](#)%8B%2C+I'm+Viraj+Samarasinghe;AI+Engineer+%7C+Machine+Learning+Specialist;RAG+Systems+%7C+Agentic+AI+%7C+LLMs;Agent+Automation+%7C+Multi-Agent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Viraj+Samarasinghe;AI+Engineer+%7C+Machine+Learning+Specialist;RAG+Systems+%7C+Agentic+AI+%7C+LLMs;Agent+Automation+%7C+Multi-Agent+Systems" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🤖 AI Engineer | Agentic Systems | RAG | Multi-Agent Automation | LLMs 🧠</h3>
+<h3 align="center">🤖 AI Engineer | Agentic Systems | RAG | Multi-Agent Automation | LLMs </h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=virajsamarasinghe&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="virajsamarasinghe" />
@@ -37,29 +12,40 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github.com/virajsamarasinghe/virajsamarasinghe/blob/main/assets/ai-banner.gif" width="800" alt="AI Engineering Banner"/>
-</div>
-
 ---
 
-## 🚀 About Me
+## About Me
 
 <img align="right" alt="AI Engineering" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🧠 **AI Engineer** specializing in **Retrieval-Augmented Generation (RAG)** systems
-- 🤖 Currently building **Large Language Model applications** and **intelligent document processing** systems
-- � Exploring **advanced RAG architectures**, **vector databases**, and **multi-modal AI**
-- 🚀 Passionate about **MLOps**, **AI ethics**, and **responsible AI development**
-- 🌱 Currently mastering **LangChain**, **Transformer architectures**, and **distributed AI systems**
-- 👯 Looking to collaborate on **open-source AI projects** and **cutting-edge research**
-- � Ask me about **RAG systems**, **LLMs**, **vector embeddings**, and **AI model optimization**
-- 📫 Reach me at **vchampike@gmail.com**
-- ⚡ Fun fact: **I believe AI will augment human creativity, not replace it! 🎨🤖**
+**AI Engineer** specializing in **Agentic Systems** and **Retrieval-Augmented Generation (RAG)** with expertise in building intelligent automation solutions and multi-agent frameworks.
+
+**Current Focus:**
+- Developing multi-agent systems and AI agent orchestration platforms
+- Building production-ready RAG systems for document intelligence
+- Researching agent-to-agent communication and autonomous AI workflows
+
+**Technical Expertise:**
+- **Frameworks:** AutoGen, CrewAI, LangGraph, LangChain
+- **Specializations:** Agent automation, MLOps, distributed AI systems
+- **Areas:** Agentic systems, agent orchestration, LLMs, AI automation
+
+**Collaboration:**
+Looking to collaborate on agentic AI projects, agent automation, and cutting-edge multi-agent research.
+
+**Contact:** vchampike@gmail.com
+- Currently building **Large Language Model applications** and **intelligent document processing** systems
+- Exploring **advanced RAG architectures**, **vector databases**, and **multi-modal AI**
+- Passionate about **MLOps**, **AI ethics**, and **responsible AI development**
+- Currently mastering **LangChain**, **Transformer architectures**, and **distributed AI systems**
+- Looking to collaborate on **open-source AI projects** and **cutting-edge research**
+- Ask me about **RAG systems**, **LLMs**, **vector embeddings**, and **AI model optimization**
+- Reach me at **vchampike@gmail.com**
+- Fun fact: **I believe AI will augment human creativity, not replace it!**
 
 ---
 
-## 🌐 Connect with me:
+## Connect with me:
 
 <div align="center">
   <a href="https://linkedin.com/in/viraj-samarasinghe" target="_blank">
@@ -84,11 +70,11 @@
 
 ---
 
-## 🧠 AI & Machine Learning Stack:
+## AI & Machine Learning Stack:
 
 <div align="center">
 
-### **🤖 Agentic AI & Multi-Agent Frameworks**
+### **Agentic AI & Multi-Agent Frameworks**
 <p align="center">
   <a href="https://microsoft.github.io/autogen/" target="_blank">
     <img src="https://img.shields.io/badge/🔄_AutoGen-0078D4?style=for-the-badge" alt="AutoGen"/>
@@ -110,7 +96,7 @@
   </a>
 </p>
 
-### **🧠 AI/ML Frameworks & Libraries**
+### **AI/ML Frameworks & Libraries**
 <p align="center">
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -135,7 +121,7 @@
   </a>
 </p>
 
-### **🗄️ Vector Databases & RAG Tech**
+### **Vector Databases & RAG Tech**
 <p align="center">
   <a href="https://www.pinecone.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌲_Pinecone-0080FF?style=for-the-badge" alt="Pinecone"/>
@@ -154,7 +140,7 @@
   </a>
 </p>
 
-### **☁️ LLM APIs & Cloud AI**
+### **LLM APIs & Cloud AI**
 <p align="center">
   <a href="https://openai.com/" target="_blank">
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
@@ -173,7 +159,7 @@
   </a>
 </p>
 
-### **💻 Programming & Development**
+### **Programming & Development**
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -192,7 +178,7 @@
   </a>
 </p>
 
-### **🛠️ MLOps & Infrastructure**
+### **MLOps & Infrastructure**
 <p align="center">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -216,84 +202,29 @@
 
 </div>
 
----
 
-## 🎯 Featured AI Projects
 
-<div align="center">
-
-### � **RAG-Powered Document Intelligence System**
-> Advanced retrieval-augmented generation system for intelligent document processing and Q&A
-
-[![RAG System](https://img.shields.io/badge/🔍_RAG_System-Live_Demo-success?style=for-the-badge)](https://github.com/virajsamarasinghe/RAG-Retrieval-Augmented-Generation-)
-[![Tech Stack](https://img.shields.io/badge/Tech-Python_|_LangChain_|_Pinecone_|_OpenAI-blue?style=for-the-badge)](#)
-
-### 🤖 **Multi-Modal AI Assistant**
-> Intelligent assistant leveraging vision and language models for comprehensive AI interactions
-
-[![AI Assistant](https://img.shields.io/badge/🤖_AI_Assistant-Coming_Soon-orange?style=for-the-badge)](#)
-[![Tech Stack](https://img.shields.io/badge/Tech-GPT4V_|_CLIP_|_Whisper_|_FastAPI-purple?style=for-the-badge)](#)
-
-### 📊 **MLOps Pipeline for LLM Fine-tuning**
-> End-to-end MLOps pipeline for fine-tuning and deploying large language models
-
-[![MLOps](https://img.shields.io/badge/⚙️_MLOps_Pipeline-In_Progress-yellow?style=for-the-badge)](#)
-[![Tech Stack](https://img.shields.io/badge/Tech-Docker_|_K8s_|_MLflow_|_HuggingFace-green?style=for-the-badge)](#)
-
-</div>
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=virajsamarasinghe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A9A9A9" alt="GitHub Stats"/>
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=virajsamarasinghe&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak"/>
-  
-</div>
+
 
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajsamarasinghe&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A9A9A9&layout=compact&langs_count=8" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=virajsamarasinghe&theme=tokyo-night&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+
+
+
 
 ---
 
-## 🏆 Achievements & Certifications
 
-<div align="center">
 
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![Google Cloud AI](https://img.shields.io/badge/Google_Cloud-AI_ML_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
-[![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-Specialization-00D4AA?style=for-the-badge)](#)
-[![Coursera ML](https://img.shields.io/badge/Coursera-Machine_Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](#)
 
-</div>
-
----
-
-## 📝 Latest AI Research & Articles
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-- 🤖 [Mastering Multi-Agent Systems: From Theory to Production](https://dev.to/virajsamarasinghe/multi-agent-systems-guide)
-- � [Agent Orchestration Patterns: Building Scalable AI Workflows](https://medium.com/@virajsamarasinghe/agent-orchestration-patterns)
-- 🔥 [Building Production-Ready RAG Systems: A Complete Guide](https://dev.to/virajsamarasinghe/rag-systems-guide)
-- 🚀 [Agentic AI: The Future of Autonomous Decision-Making](https://medium.com/@virajsamarasinghe/agentic-ai-future)
-- 🧠 [Fine-tuning LLMs for Agent-Based Applications](https://dev.to/virajsamarasinghe/llm-finetuning-agents)
-<!-- BLOG-POST-LIST:END -->
-
-</div>
-
----
-
-## 💡 AI Innovation Mindset
+## AI Innovation Mindset
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20future%20of%20AI%20lies%20in%20autonomous%20agents%20that%20can%20collaborate,%20reason,%20and%20adapt%20-%20creating%20intelligent%20systems%20that%20amplify%20human%20potential.&author=Viraj%20Samarasinghe" alt="Agentic AI Quote"/>
@@ -302,8 +233,8 @@
 ---
 
 <div align="center">
-  <h3>💻 "Code with Purpose, Innovate with AI" 🤖</h3>
-  <p>⭐ Star my repositories if you find them useful! ⭐</p>
+  <h3>"Code with Purpose, Innovate with AI" </h3>
+  <p>Star my repositories if you find them useful! </p>
   
   [![Sponsor](https://img.shields.io/badge/💖_Sponsor-GitHub_Sponsors-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/virajsamarasinghe)
   [![Coffee](https://img.shields.io/badge/☕_Buy_me_a_coffee-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/virajsamarasinghe)
