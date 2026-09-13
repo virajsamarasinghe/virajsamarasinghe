@@ -39,7 +39,7 @@ I work with **LangGraph**, **LangChain**, **AutoGen**, **CrewAI**, **Qdrant**, *
 
 Open to collaborating on agentic AI projects and applied multi-agent research.
 
-**Contact:** [vchampike@gmail.com](mailto:vchampike@gmail.com)
+**Contact:** [virajsamarasinghe.eng@gmail.com](mailto:virajsamarasinghe.eng@gmail.com)
 
 ---
 
